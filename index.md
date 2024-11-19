@@ -5,7 +5,10 @@ layout: default
 
 ## Yaoze Zou
 
-PhD student in Mathematics
+Ph.D. student in Mathematics
+
 Texas A&M University
+
+Office: Blocker 605
 
 Email: yzz (a) tamu (d) edu
