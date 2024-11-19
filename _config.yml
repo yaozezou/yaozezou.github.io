@@ -1,0 +1,9 @@
+### your site title here
+
+title: Yaoze Zou's Personal Website
+
+
+### exclude the instructions / write-up in the README.md
+
+exclude:
+- README.md
