@@ -11,9 +11,3 @@ Texas A&M University
 Office: Blocker 605
 
 Email: yzz (a) tamu (d) edu
-
-### Teaching
-
-Fall 2024:
-
-### Notes
