@@ -8,7 +8,7 @@ layout: default
 Ph.D. student in Mathematics<br>
 Texas A&M University
 
-Office: Blocker 605
+Office: Blocker 506B
 
 Email: yzz (a) tamu (d) edu
 
