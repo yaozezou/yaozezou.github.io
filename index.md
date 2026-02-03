@@ -12,10 +12,16 @@ Office: Blocker 506B
 
 Email: yzz (a) tamu (d) edu
 
+<br>
+
 ### Notes
 
 - [The Cauchy-Kowalevskaya-Kashiwara Theorem](notes/ckk.pdf)
 
+<br>
+
 ### Seminars
 
 [Geometry Seminar](https://tamu-seminar.github.io/geometry/) &middot; [Algebra & Combinatorics Seminar](https://tamu-seminar.github.io/alg-comb/) &middot; [Noncommutative Geometry Seminar](https://tamu-seminar.github.io/noncommutative-geometry/) &middot; [Geometry Working Seminar](https://people.tamu.edu/~jml/workingsem26.html)
+
+<br>
