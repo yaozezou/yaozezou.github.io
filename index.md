@@ -12,13 +12,9 @@ Office: Blocker 506B
 
 Email: yzz (a) tamu (d) edu
 
-&nbsp;
-
 ### Notes
 
 - [The Cauchy-Kowalevskaya-Kashiwara Theorem](notes/ckk.pdf)
-
-&nbsp;
 
 ### Seminars
 
